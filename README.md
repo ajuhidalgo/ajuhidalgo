@@ -15,5 +15,6 @@ De los conocimientos desarrollados y adquiridos me gustaría destacar los siguie
 - Impresión 3D en materiales técnicos como ABS, ASA, PLA y flexibles. 
 - Modificación, puesta a punto y mantenimiento de impresoras 3D.
 
+En mi perfil puedes encontrar el doftware de todos los proyectos personales que desarrolle de ahora en adelante.
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
