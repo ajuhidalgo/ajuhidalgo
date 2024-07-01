@@ -1,5 +1,5 @@
 # Hola, mi nombre es Juan Antonio 👋
-### Ingeniero de diseño hardware y desarrollo de firmware.
+### Ingeniero de desarrollo hardware y firmware.
 
 En 2023 finalicé mis estudios en el Grado de Ingeniería Electrónica Industrial en la Escuela Politécnica Superior de Córdoba. Actualmente, además de mi puesto de trabajo, me encuentro en proceso de formación autodidacta en nuevas tecnologías, con la intención de mantenerme actualizado.
 
