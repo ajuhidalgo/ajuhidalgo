@@ -3,7 +3,7 @@
 
 En 2023 finalicé mis estudios en el Grado de Ingeniería Electrónica Industrial en la Escuela Politécnica Superior de Córdoba. Actualmente, además de mi puesto de trabajo, me encuentro en proceso de formación autodidacta en nuevas tecnologías, con la intención de mantenerme actualizado.
 
-Desde muy joven he estado interesado en la tecnología y la ingeniería, por lo que he siempre me gustado experimentar y crear por cuenta propia. Todo esto me ha llevado a ser una persona apasionada en las nuevas tecnologías y las buenas prácticas, con iniciativa y actitud positiva para afrontar retos y buscar soluciones. Además, considero que soy ordenado, disciplinado y comprometido con el trabajo en equipo.
+Desde muy joven he estado interesado en la tecnología y la ingeniería, por lo que he siempre me ha gustado experimentar y crear por cuenta propia. Todo esto me ha llevado a ser una persona apasionada en las nuevas tecnologías y las buenas prácticas, con iniciativa y actitud positiva para afrontar retos y buscar soluciones. Además, considero que soy ordenado, disciplinado y comprometido con el trabajo en equipo.
 
 De los conocimientos desarrollados y adquiridos, tanto en mi trabajo como en proyectos personales, me gustaría destacar los siguientes:
 - Programación de sistemas embebidos en C/C++ en entornos de desarrollo como VSCode o Arduino IDE, para sistemas ESP32, STM32 y Arduino.
